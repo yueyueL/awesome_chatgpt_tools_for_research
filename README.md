@@ -1,7 +1,7 @@
-# awesome_gpt_prompts_for_research
+# awesome gpt prompts for research
 This repo includes ChatGPT prompt curation to use ChatGPT better for research writing.
 
-You are welcome to update and improve the prompts!!
+**You are welcome to update and improve the prompts!!**
 
 While ChatGPT is a valuable tool for writing, it is essential to adhere to community policies, such as those set forth by the International Conference on Machine Learning (ICML). The Program Chairs for ICML 2023 included the following statement in their Call for Papers:
 
