@@ -1,4 +1,4 @@
-# awesome gpt prompts for research
+# Awesome GPT Prompts for Research
 This repo includes ChatGPT prompt curation to use ChatGPT better for research writing.
 
 **You are welcome to update and improve the prompts!!**
