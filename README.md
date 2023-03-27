@@ -13,6 +13,7 @@ While ChatGPT is a valuable tool for writing, it is essential to adhere to commu
 ## Awesome research tools 
 * [chatpdf](https://www.chatpdf.com/) - chat with any PDF
 * [Hammer Scholar](http://hammerscholar.net/) - a brand new Smart Scientific PDF Reader
+* [ChatPaper](https://github.com/kaixindelele/ChatPaper) - A tool for paper revise, read, and improvement
 
 
 ## Prompts
