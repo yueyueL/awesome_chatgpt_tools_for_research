@@ -8,6 +8,7 @@ While ChatGPT is a valuable tool for writing, it is essential to adhere to commu
 > Papers that include text generated from a large-scale language model (LLM) such as ChatGPT are prohibited unless the produced text is presented as a part of the paper’s experimental analysis. The Large Language Model (LLM) policy for ICML 2023 prohibits text produced entirely by LLMs (i.e., “generated”).  This does not prohibit authors from using LLMs for editing or polishing author-written text. The LLM policy is largely predicated on the principle of being conservative with respect to guarding against potential issues of using LLMs, including plagiarism. The LLM policy applies to ICML 2023. We expect this policy may evolve in future conferences as we understand LLMs and their impacts on scientific publishing better.
 
 ## Awesome papers
+- Open AI, [GPT-4 Technical Report](https://arxiv.org/abs/2303.08774)
 - Bubeck S, Chandrasekaran V, Eldan R, et al. Sparks of Artificial General Intelligence: Early experiments with GPT-4[J]. arXiv preprint arXiv:2303.12712, 2023.
 
 ## Awesome research tools 
