@@ -1,12 +1,21 @@
-# Awesome GPT Prompts for Research
-This repo includes ChatGPT prompt curation to use ChatGPT better for research writing.
+# Awesome ChatGPT for Research
+This repo includes ChatGPT tools and papers to use ChatGPT better for our research.
 
-**You are welcome to update and improve the prompts!!**
+**You are welcome to update and improve this repository!!**
 
 While ChatGPT is a valuable tool for writing, it is essential to adhere to community policies, such as those set forth by the International Conference on Machine Learning (ICML). The Program Chairs for ICML 2023 included the following statement in their Call for Papers:
 
 > Papers that include text generated from a large-scale language model (LLM) such as ChatGPT are prohibited unless the produced text is presented as a part of the paper’s experimental analysis. The Large Language Model (LLM) policy for ICML 2023 prohibits text produced entirely by LLMs (i.e., “generated”).  This does not prohibit authors from using LLMs for editing or polishing author-written text. The LLM policy is largely predicated on the principle of being conservative with respect to guarding against potential issues of using LLMs, including plagiarism. The LLM policy applies to ICML 2023. We expect this policy may evolve in future conferences as we understand LLMs and their impacts on scientific publishing better.
 
+## Awesome papers
+- Bubeck S, Chandrasekaran V, Eldan R, et al. Sparks of Artificial General Intelligence: Early experiments with GPT-4[J]. arXiv preprint arXiv:2303.12712, 2023.
+
+## Awesome research tools 
+* [chatpdf](https://www.chatpdf.com/) - chat with any PDF
+* [Hammer Scholar](http://hammerscholar.net/) - a brand new Smart Scientific PDF Reader
+
+
+## Prompts
 ### Acting as Grammarly
 Please proofread and revise my text for grammar errors. Your task is to provide a detailed review of the text, identifying any grammatical mistakes or awkward phrasing that could be improved. Please make specific suggestions on how to improve the text, including corrections to spelling, punctuation, syntax, and word choice. In your response, please explain why each change is necessary and how it improves the overall quality of the writing. Additionally, please ensure that your feedback is clear and easy to understand so that I can easily implement your suggestions.
 
