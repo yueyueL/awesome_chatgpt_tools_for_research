@@ -17,7 +17,43 @@ While ChatGPT is a valuable tool for writing, it is essential to adhere to commu
 * [ChatPaper](https://github.com/kaixindelele/ChatPaper) - A tool for paper revise, read, and improvement
 
 
-## Prompts
+## Prompts for writing
+
+### Research Prompts Template for researchChatGPT
+
+**Specific Research Field/Topic**
+> You are now acting as an expert in the field of [xxxxxxx]. From a professional point of view, do you think there is any need to modify the above content? Be careful not to modify the whole text, you need to point out the places that need to be modified one by one, and give revision opinions and recommended revision content.
+
+**Save the space when the output is so long**
+> xxxxxxx, since your output length is limited, in order to save space, please use ellipses for the parts you do not think need to be modified.
+
+**Refine our prompts**
+> "xxxxx" is my prompt, and could you write a better prompt that is more optimal for GPT-4 and would produce better results for GPT-4?
+
+**Let ChatGPT provide multiple suggestions**
+> Please provide multiple versions for reference
+
+**Revision Guidance**
+> More precise
+> More concise
+> More objective
+> More coherent
+> More consistent
+> More academic
+> More formal grammar
+> More nuanced
+
+**Degree for revision**
+> Subtle edits only
+> Minor edits
+> Rephrase for clarity
+> Simplify sentence structure
+> Check grammar and spelling
+> Enhance flow and coherence
+> Revise for style
+> Significant edits
+> Restructure content
+
 ### Acting as Grammarly
 Please proofread and revise my text for grammar errors. Your task is to provide a detailed review of the text, identifying any grammatical mistakes or awkward phrasing that could be improved. Please make specific suggestions on how to improve the text, including corrections to spelling, punctuation, syntax, and word choice. In your response, please explain why each change is necessary and how it improves the overall quality of the writing. Additionally, please ensure that your feedback is clear and easy to understand so that I can easily implement your suggestions.
 
@@ -27,7 +63,7 @@ Your task is to rewrite and paraphrase a section of text for a research paper. T
 ### Acting as a Reviewer
 Your task is to read and summarize a paper, highlighting its strengths and weaknesses. Your summary should be concise but comprehensive, providing an overview of the key findings, methods used, and conclusions drawn in the paper. In your analysis of the paper's strengths, you should focus on aspects such as clarity of writing, soundness of methodology, relevance of research question or hypothesis, and contribution to existing knowledge in the field. In your analysis of the paper's weaknesses, you should identify any limitations or shortcomings in the study design or execution that may have affected the validity or generalizability of the results. You should also consider potential biases or confounding factors that may have influenced the findings. Please note that your response should be flexible enough to allow for various relevant and creative strengths and weaknesses. However, it should maintain a clear structure and focus on accuracy while encouraging creativity.
 
-### Reply an Email
+### Reply to an Email
 Please provide a response to the following email, with the main reply being "xxx". Your response should be professional and courteous, addressing any questions or concerns raised in the original email. Please ensure that your response is clear and concise, avoiding unnecessary information or details. Additionally, please feel free to personalize the response as appropriate, such as including a greeting or thanking the recipient for their message.
 
 ### Revising the Text Based on the Comments
