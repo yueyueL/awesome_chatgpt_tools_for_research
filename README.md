@@ -41,28 +41,28 @@ Please provide multiple versions for reference
 
 **Revision Guidance**
 - **Precision**
-  - Description: Enhance clarity and specificity.
+  - Description: Enhance clarity and choose more precise words
   - Make content more precise.
 - **Brevity**
-  - Description: Eliminate unnecessary words or details for conciseness.
+  - Description: Eliminate unnecessary words and phrases to make sentences clearer and more direct
   - Make content more concise.
 - **Objectivity**
-  - Description: Present information without personal bias or emotion.
+  - Description: Present information without personal bias or emotion. Remove subjective language and present information in a neutral way
   - Make content more objective.
 - **Coherence**
-  - Description: Ensure logical flow from one idea to the next.
+  - Description: Make sure your sentences are well organized and logical.
   - Make content more coherent.
 - **Consistency**
-  - Description: Ensure uniformity in terminology, voice, and style.
+  - Description: Make sure the language and style used in the sentences are consistent with the rest of the paper.
   - Make content more consistent.
 - **Academic tone**
-  - Description: Adopt a formal and impersonal tone befitting scholarly works.
+  - Description: Use terms and phrases commonly used in academic writing
   - Make content more academic.
 - **Formal grammar**
-  - Description: Ensure correct usage of language, free from colloquialisms.
+  - Description: Use correct grammar and syntax
   - Use more formal grammar.
 - **Nuance**
-  - Description: Add subtle distinctions or shades of meaning.
+  - Description: Making a sentence more detailed by using words or phrases to convey a more complex or subtle meaning
   - Make content more nuanced.
 
 - **Levels**:
@@ -76,6 +76,32 @@ Please provide multiple versions for reference
    - Significant modifications
    - Content restructuring
  
+**Revision Prompts**
+```
+Polish the paragraph above to make it more logical, and academic
+```
+```
+Please help me analyze and optimize the logical structure of this argument to make it more convincing
+```
+
+Combined with background knowledge:
+```
+According to vour knowledge about XXX and XXX, is there a better way to write the above paragraphplease help to revise it so that it can be used in academic papers.
+```
+```
+Now, in order to help me better polish my thesis, I need you to remember the XXX principle: xxxx
+```
+```
+Polish and rewrite the above content to make it more in line with the style of academic papers, and at the same time, it can be more professional. if there are parts that do not conform to facts or logic, please refer to the part of xxxxx for the above content modification.
+```
+
+Let ChatGPT continue to write:
+```
+Based on the knowledge you have mastered about xxxx, polish and continue writing the above content to make the content richer and more complete.
+```
+
+
+
 
 
 ### Acting as Grammarly
