@@ -16,14 +16,16 @@ While ChatGPT is a valuable tool for writing, it is essential to adhere to commu
 * [Hammer Scholar](http://hammerscholar.net/) - a brand new Smart Scientific PDF Reader
 * [ChatPaper](https://github.com/kaixindelele/ChatPaper) - A tool for paper revise, read, and improvement
 
-<pre>
+
 ## Prompts for writing
 
 ### Research Prompts Template for researchChatGPT
 
 **Specific Research Field/Topic**
 ```
+<pre>
 You are now acting as an expert in the field of [xxxxxxx]. From a professional point of view, do you think there is any need to modify the above content? Be careful not to modify the whole text, you need to point out the places that need to be modified one by one, and give revision opinions and recommended revision content.
+</pre>
 ```
 
 **Save the space when the output is so long**
@@ -72,7 +74,7 @@ You are now acting as an expert in the field of [xxxxxxx]. From a professional p
    - Significant modifications
    - Content restructuring
  
-</pre>pre>
+
 
 ### Acting as Grammarly
 Please proofread and revise my text for grammar errors. Your task is to provide a detailed review of the text, identifying any grammatical mistakes or awkward phrasing that could be improved. Please make specific suggestions on how to improve the text, including corrections to spelling, punctuation, syntax, and word choice. In your response, please explain why each change is necessary and how it improves the overall quality of the writing. Additionally, please ensure that your feedback is clear and easy to understand so that I can easily implement your suggestions.
