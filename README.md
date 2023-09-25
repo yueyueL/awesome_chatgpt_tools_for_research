@@ -23,19 +23,21 @@ While ChatGPT is a valuable tool for writing, it is essential to adhere to commu
 
 **Specific Research Field/Topic**
 ```
-<pre>
 You are now acting as an expert in the field of [xxxxxxx]. From a professional point of view, do you think there is any need to modify the above content? Be careful not to modify the whole text, you need to point out the places that need to be modified one by one, and give revision opinions and recommended revision content.
-</pre>
 ```
 
 **Save the space when the output is so long**
-> xxxxxxx, since your output length is limited, in order to save space, please use ellipses for the parts you do not think need to be modified.
-
+```
+xxxxxxx, since your output length is limited, in order to save space, please use ellipses for the parts you do not think need to be modified.
+```
 **Refine our prompts**
-> "xxxxx" is my prompt, and could you write a better prompt that is more optimal for GPT-4 and would produce better results for GPT-4?
-
+```
+"xxxxx" is my prompt, and could you write a better prompt that is more optimal for GPT-4 and would produce better results for GPT-4?
+```
 **Let ChatGPT provide multiple suggestions**
-> Please provide multiple versions for reference
+```
+Please provide multiple versions for reference
+```
 
 **Revision Guidance**
 - **Precision**
