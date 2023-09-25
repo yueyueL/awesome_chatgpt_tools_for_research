@@ -34,25 +34,34 @@ While ChatGPT is a valuable tool for writing, it is essential to adhere to commu
 > Please provide multiple versions for reference
 
 **Revision Guidance**
-> More precise
-> More concise
-> More objective
-> More coherent
-> More consistent
-> More academic
-> More formal grammar
-> More nuanced
+- [ ] Precision
+      More precise
+- [ ] Brevity
+      More concise
+- [ ] Objectivity
+      More objective
+- [ ] Coherence
+      More coherent
+- [ ] Consistency
+      More consistent
+- [ ] Academic tone
+      More academic
+- [ ] Formal grammar
+      More formal grammar
+- [ ] Nuance
+      More nuanced
 
-**Degree for revision**
-> Subtle edits only
-> Minor edits
-> Rephrase for clarity
-> Simplify sentence structure
-> Check grammar and spelling
-> Enhance flow and coherence
-> Revise for style
-> Significant edits
-> Restructure content
+
+- **Levels**:
+   - Subtle edits
+   - Minor refinements
+   - Clarity-focused rephrasing
+   - Sentence simplification
+   - Grammar and spelling checks
+   - Flow and coherence enhancements
+   - Style-focused revisions
+   - Significant modifications
+   - Content restructuring
 
 ### Acting as Grammarly
 Please proofread and revise my text for grammar errors. Your task is to provide a detailed review of the text, identifying any grammatical mistakes or awkward phrasing that could be improved. Please make specific suggestions on how to improve the text, including corrections to spelling, punctuation, syntax, and word choice. In your response, please explain why each change is necessary and how it improves the overall quality of the writing. Additionally, please ensure that your feedback is clear and easy to understand so that I can easily implement your suggestions.
