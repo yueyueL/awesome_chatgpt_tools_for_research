@@ -59,7 +59,6 @@ While ChatGPT is a valuable tool for writing, it is essential to adhere to commu
   - Description: Add subtle distinctions or shades of meaning.
   - Make content more nuanced.
 
-
 - **Levels**:
    - Subtle edits
    - Minor refinements
@@ -70,6 +69,8 @@ While ChatGPT is a valuable tool for writing, it is essential to adhere to commu
    - Style-focused revisions
    - Significant modifications
    - Content restructuring
+ 
+
 
 ### Acting as Grammarly
 Please proofread and revise my text for grammar errors. Your task is to provide a detailed review of the text, identifying any grammatical mistakes or awkward phrasing that could be improved. Please make specific suggestions on how to improve the text, including corrections to spelling, punctuation, syntax, and word choice. In your response, please explain why each change is necessary and how it improves the overall quality of the writing. Additionally, please ensure that your feedback is clear and easy to understand so that I can easily implement your suggestions.
