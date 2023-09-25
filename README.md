@@ -22,7 +22,7 @@ While ChatGPT is a valuable tool for writing, it is essential to adhere to commu
 ### Research Prompts Template for researchChatGPT
 
 **Specific Research Field/Topic**
-```
+```markdown
 You are now acting as an expert in the field of [xxxxxxx]. From a professional point of view, do you think there is any need to modify the above content? Be careful not to modify the whole text, you need to point out the places that need to be modified one by one, and give revision opinions and recommended revision content.
 ```
 
