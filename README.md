@@ -34,22 +34,37 @@ While ChatGPT is a valuable tool for writing, it is essential to adhere to commu
 > Please provide multiple versions for reference
 
 **Revision Guidance**
-- [ ] Precision
-      More precise
-- [ ] Brevity
-      More concise
-- [ ] Objectivity
-      More objective
-- [ ] Coherence
-      More coherent
-- [ ] Consistency
-      More consistent
-- [ ] Academic tone
-      More academic
-- [ ] Formal grammar
-      More formal grammar
-- [ ] Nuance
-      More nuanced
+- **Precision**
+  - Description: Enhance clarity and specificity.
+  - Action: Make content more precise.
+
+- **Brevity**
+  - Description: Eliminate unnecessary words or details for conciseness.
+  - Action: Make content more concise.
+
+- **Objectivity**
+  - Description: Present information without personal bias or emotion.
+  - Action: Make content more objective.
+
+- **Coherence**
+  - Description: Ensure logical flow from one idea to the next.
+  - Action: Make content more coherent.
+
+- **Consistency**
+  - Description: Ensure uniformity in terminology, voice, and style.
+  - Action: Make content more consistent.
+
+- **Academic tone**
+  - Description: Adopt a formal and impersonal tone befitting scholarly works.
+  - Action: Make content more academic.
+
+- **Formal grammar**
+  - Description: Ensure correct usage of language, free from colloquialisms.
+  - Action: Use more formal grammar.
+
+- **Nuance**
+  - Description: Add subtle distinctions or shades of meaning.
+  - Action: Make content more nuanced.
 
 
 - **Levels**:
