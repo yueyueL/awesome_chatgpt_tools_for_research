@@ -15,6 +15,7 @@ While ChatGPT is a valuable tool for writing, it is essential to adhere to commu
 * [chatpdf](https://www.chatpdf.com/) - chat with any PDF
 * [Hammer Scholar](http://hammerscholar.net/) - a brand new Smart Scientific PDF Reader
 * [ChatPaper](https://github.com/kaixindelele/ChatPaper) - A tool for paper revise, read, and improvement
+* [BGPT MCP](https://github.com/connerlambden/bgpt-mcp) - MCP server for searching scientific papers and returning structured experimental data (methods, results, sample sizes) extracted from full-text studies
 
 
 ## Prompts for writing
