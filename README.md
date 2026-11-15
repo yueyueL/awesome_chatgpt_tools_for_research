@@ -15,6 +15,7 @@ While ChatGPT is a valuable tool for writing, it is essential to adhere to commu
 * [chatpdf](https://www.chatpdf.com/) - chat with any PDF
 * [Hammer Scholar](http://hammerscholar.net/) - a brand new Smart Scientific PDF Reader
 * [ChatPaper](https://github.com/kaixindelele/ChatPaper) - A tool for paper revise, read, and improvement
+* [No Stairs Please](https://nostairsplease.com/mcp) - Live music venue directory and MCP server covering 3,400+ under-400-capacity rooms.
 
 
 ## Prompts for writing
